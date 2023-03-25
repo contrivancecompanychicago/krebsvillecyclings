@@ -1,0 +1,41 @@
+./ {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+./-IL-005-light {
+    width: 816px;
+    height: 1056px;
+    background-position: -400px -400px;
+}
+
+./-IL-025-dark {
+    width: 816px;
+    height: 1056px;
+    background-position: -2016px -400px;
+}
+
+./-RunRight01 {
+    width: 128px;
+    height: 128px;
+    background-position: -3632px -400px;
+}
+
+./-RunRight02 {
+    width: 128px;
+    height: 128px;
+    background-position: -3632px -1328px;
+}
+
+./-RunRight03 {
+    width: 128px;
+    height: 128px;
+    background-position: -400px -2256px;
+}
+
+./-RunRight04 {
+    width: 128px;
+    height: 128px;
+    background-position: -1328px -2256px;
+}
