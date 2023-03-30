@@ -1,0 +1,77 @@
+./ {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+./-RunRight01 {
+    width: 128px;
+    height: 128px;
+    background-position: -400px -400px;
+}
+
+./-RunRight02 {
+    width: 128px;
+    height: 128px;
+    background-position: -1328px -400px;
+}
+
+./-RunRight03 {
+    width: 128px;
+    height: 128px;
+    background-position: -2256px -400px;
+}
+
+./-RunRight04 {
+    width: 128px;
+    height: 128px;
+    background-position: -400px -1328px;
+}
+
+./-fight01-thumb {
+    width: 128px;
+    height: 128px;
+    background-position: -1328px -1328px;
+}
+
+./-fight01-thumb {
+    width: 128px;
+    height: 128px;
+    background-position: -2256px -1328px;
+}
+
+./-fight02-thumb {
+    width: 128px;
+    height: 128px;
+    background-position: -400px -2256px;
+}
+
+./-fight02-thumb {
+    width: 128px;
+    height: 128px;
+    background-position: -1328px -2256px;
+}
+
+./-fight03-thumb {
+    width: 128px;
+    height: 128px;
+    background-position: -2256px -2256px;
+}
+
+./-fight03-thumb {
+    width: 128px;
+    height: 128px;
+    background-position: -3184px -400px;
+}
+
+./-fight03-thumb {
+    width: 128px;
+    height: 128px;
+    background-position: -3184px -1328px;
+}
+
+./-fight04-thumb {
+    width: 128px;
+    height: 128px;
+    background-position: -3184px -2256px;
+}
